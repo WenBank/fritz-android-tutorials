@@ -30,7 +30,7 @@ We currently support both TensorFlow Lite and TensorFlow Mobile for Android.
 
 **Step 1: Create a Fritz AI Account**
 
-[Sign up](https://app.fritz.ai/register) for an account on Fritz AI in order to get started.
+[Sign up](https://app.fritz.ai/register) for a free account on Fritz AI in order to get started.
 
 **Step 2: Clone / Fork the fritz-android-tutorials repository and open the demo app in Android Studio**
 
