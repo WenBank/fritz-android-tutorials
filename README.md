@@ -3,7 +3,7 @@
 [ ![Codeship Status for fritzlabs/fritz-sdk-android](https://app.codeship.com/projects/c74152e0-65d1-0136-2d69-32e87736c6c6/status?branch=master)](https://app.codeship.com/projects/297281)
 [![Twitter](https://img.shields.io/badge/twitter-@fritzlabs-blue.svg?style=flat)](http://twitter.com/fritzlabs)
 
-Fritz is the machine learning platform for iOS and Android developers. [Sign up](https://app.fritz.ai/register) for a free account to see how you can include machine learning features in your app.
+Fritz AI is the machine learning platform for iOS and Android developers. Teach your mobile apps to see, hear, sense, and think. [Sign up](https://app.fritz.ai/register) for a free account to see how you can include machine learning features in your app.
 
 **Vision API: Prebuilt models that you can simply drop into your apps:**
 
@@ -23,9 +23,9 @@ We currently support both TensorFlow Lite ([code](HeartbeatDemoApp/app/src/main/
 
 ## Example Apps
 
-If you are new to Fritz, it's recommended to get started with our Heartbeat Demo App. You can also install the latest version from the [Google Play Store](https://play.google.com/store/apps/details?id=ai.fritz.heartbeat&hl=en_US):
+If you are new to Fritz, it's recommended to get started with our Fritz AI Studio app. You can also install the latest version from the [Google Play Store](https://play.google.com/store/apps/details?id=ai.fritz.heartbeat&hl=en_US):
 
-- Heartbeat Demo App - Our kitchen sink project showcases all on-device Vision APIs and Custom Model usage.
+- Fritz AI Studio App - Our kitchen sink project showcases all on-device Vision APIs and Custom Model usage.
 - Camera Boilerplate App - Our lightweight camera app to quickly get started implementing features with the camera.
 - Background Replacement App [People Segmentation] - An example app to replace the background of portraits ([tutorial](https://heartbeat.fritz.ai/image-segmentation-for-android-smart-background-replacement-with-fritz-a09d8b0592a4)).
 - Sky Animation App [Sky Segmentation] - A simple photo app that replaces the sky with an animation. (Tutorial coming soon)
