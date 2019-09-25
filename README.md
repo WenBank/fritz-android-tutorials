@@ -1,11 +1,9 @@
-# Fritz Android Tutorials
+# Examples for Android
 
-Fritz AI helps you teach your applications how to see, hear, feel, think, and sense. Create ML-powered features in your mobile apps for both Android and iOS. Start with our ready-to-use feature APIs or connect and deploy your own custom models.
+[ ![Codeship Status for fritzlabs/fritz-sdk-android](https://app.codeship.com/projects/c74152e0-65d1-0136-2d69-32e87736c6c6/status?branch=master)](https://app.codeship.com/projects/297281)
+[![Twitter](https://img.shields.io/badge/twitter-@fritzlabs-blue.svg?style=flat)](http://twitter.com/fritzlabs)
 
-[Sign up](https://app.fritz.ai/register) for an account on Fritz AI in order to get started with machine learning in your apps.
-
-
-## Examples for Android
+Fritz is the machine learning platform for iOS and Android developers. [Sign up](https://app.fritz.ai/register) for a free account to see how you can include machine learning features in your app.
 
 **Vision API: Prebuilt models that you can simply drop into your apps:**
 
@@ -25,7 +23,7 @@ We currently support both TensorFlow Lite ([code](HeartbeatDemoApp/app/src/main/
 
 ## Example Apps
 
-If you are new to Fritz, I'd recommend getting started with our Heartbeat Demo App. You can also install the latest version from the [Google Play Store](https://play.google.com/store/apps/details?id=ai.fritz.heartbeat&hl=en_US):
+If you are new to Fritz, it's recommended to get started with our Heartbeat Demo App. You can also install the latest version from the [Google Play Store](https://play.google.com/store/apps/details?id=ai.fritz.heartbeat&hl=en_US):
 
 - Heartbeat Demo App - Our kitchen sink project showcases all on-device Vision APIs and Custom Model usage.
 - Camera Boilerplate App - Our lightweight camera app to quickly get started implementing features with the camera.
@@ -47,9 +45,11 @@ If you are new to Fritz, I'd recommend getting started with our Heartbeat Demo A
 [Android API Docs](https://docs.fritz.ai/android/latest/index.html)
 
 ## Join the community
+
 [Heartbeat](https://heartbeat.fritz.ai/?utm_source=github&utm_campaign=fritz-models) is a community of developers interested in the intersection of mobile and machine learning. [Chat with us in Slack](https://join.slack.com/t/heartbeat-by-fritz/shared_invite/enQtMzY5OTM1MzgyODIzLTZhNTFjYmRiODU0NjZjNjJlOGRjYzI2OTIwY2M4YTBiNjM1ODU1ZmU3Y2Q2MmMzMmI2ZTIzZjQ1ZWI3NzBkZGU) and stay up to date on the latest mobile ML news with our [Newsletter](https://mobileml.us16.list-manage.com/subscribe?u=de53bead690affb8e9a21de8f&id=68acb5c0fd).
 
 ## Help
+
 For any questions or issues, you can:
 - Submit an issue on this repo
 - Go to our [Help Center](https://docs.fritz.ai/help-center/index.html)
