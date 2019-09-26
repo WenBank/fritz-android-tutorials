@@ -1,18 +1,14 @@
-# Pose Estimation
+# Creating Stickers with Pet Segmentation
 
 [ ![Codeship Status for fritzlabs/fritz-sdk-android](https://app.codeship.com/projects/c74152e0-65d1-0136-2d69-32e87736c6c6/status?branch=master)](https://app.codeship.com/projects/297281)
 [![Twitter](https://img.shields.io/badge/twitter-@fritzlabs-blue.svg?style=flat)](http://twitter.com/fritzlabs)
 
-In this app, we will track body movements and position with Pose Estimation.
+In this app, the user can automatically create a sticker of their pet and save it in their camera roll.
 
-![](images/pose_estimation.jpg)
+This example app uses the on-device Pet Segmentation API for Android.
 
-For the full tutorial, visit [our post on Heartbeat](https://heartbeat.fritz.ai/pose-estimation-on-android-with-fritz-474e646dfede).
-
-This example app uses the on-device Pose Estimation API for Android.
-
-- [Overview](https://www.fritz.ai/features/pose-estimation.html)
-- [Documentation](https://docs.fritz.ai/develop/vision/pose-estimation/android.html)
+- [Overview](https://www.fritz.ai/features/image-segmentation.html)
+- [Documentation](https://docs.fritz.ai/develop/vision/image-segmentation/android.html)
 
 ## Fritz AI
 
@@ -27,15 +23,15 @@ Fritz AI is the machine learning platform for iOS and Android developers. Teach 
 
 **Step 1: Create a Fritz AI Account**
 
-[Sign up](https://app.fritz.ai/register) for a free account on Fritz AI in order to get started. 
+[Sign up](https://app.fritz.ai/register) for a free account on Fritz AI in order to get started.
 
-**Step 2: Clone / Fork the fritz-android-tutorials repository and open the PoseEstimationApp in Android Studio**
+**Step 2: Clone / Fork the fritz-android-tutorials repository and open the BackgroundReplacementApp app in Android Studio**
 
 ```
 git clone https://github.com/fritzlabs/fritz-android-tutorials.git
 ```
 
-In Android Studio, choose "Open an existing Android Studio project" and select `PoseEstimationApp`.
+In Android Studio, choose "Open an existing Android Studio project" and select `PetStickerApp`.
 
 **Step 3: Build the Android Studio Project**
 
@@ -43,7 +39,7 @@ Select "Build > Make Project" from the top nav. Download any missing libraries i
 
 **Step 4: Install the app onto your device**
 
-With your Android device connected, select `Run > Run App` from the top nav. When running the app for the first time, you'll have to give permissions to access the camera. After the app is installed and running, point your camera at someone to detect 17 different body keypoints.
+With your Android device connected, select `Run > Run App` from the top nav. When running the app for the first time, you'll have to give permissions to access the camera. After the app is installed and running, take a picture of a pet and you'll see a preview of the sticker. You can then save the sticker to your photo gallery.
 
 ## Official Documentation
 
@@ -58,6 +54,7 @@ With your Android device connected, select `Run > Run App` from the top nav. Whe
 ## Help
 
 For any questions or issues, you can:
+
 - Submit an issue on this repo
 - Go to our [Help Center](https://docs.fritz.ai/help-center/index.html)
 - Message us directly in [Slack](https://heartbeat-by-fritz.slack.com/join/shared_invite/enQtNTY5NDM2MTQwMTgwLTAyODE3MmQzZjU2NWE5MDNmYTgwM2E1MjU5Y2Y2NmI2YTlkMTMwZTAwYTAwMzQ5NzQ2NDBhZjhmYjU2YWY3OGU)
