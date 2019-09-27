@@ -1,5 +1,7 @@
 # Examples for Android
 
+**DEPRECATED** Please note that as of 9/28/2019, we have moved our official Android Demo apps to https://github.com/fritzlabs/fritz-examples/tree/master/Android. Any new examples or updates to the demo apps going forward will be under that repository.
+
 [ ![Codeship Status for fritzlabs/fritz-sdk-android](https://app.codeship.com/projects/c74152e0-65d1-0136-2d69-32e87736c6c6/status?branch=master)](https://app.codeship.com/projects/297281)
 [![Twitter](https://img.shields.io/badge/twitter-@fritzlabs-blue.svg?style=flat)](http://twitter.com/fritzlabs)
 
