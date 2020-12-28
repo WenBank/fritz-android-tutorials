@@ -5,7 +5,7 @@
 [ ![Codeship Status for fritzlabs/fritz-sdk-android](https://app.codeship.com/projects/c74152e0-65d1-0136-2d69-32e87736c6c6/status?branch=master)](https://app.codeship.com/projects/297281)
 [![Twitter](https://img.shields.io/badge/twitter-@fritzlabs-blue.svg?style=flat)](http://twitter.com/fritzlabs)
 
-Fritz AI is the machine learning platform for iOS and Android developers. Teach your mobile apps to see, hear, sense, and think. [Sign up](https://app.fritz.ai/register) for a free account to see how you can include machine learning features in your app.
+Fritz AI is the machine learning platform for iOS and Android developers. Teach your mobile apps to see, hear, sense, and think. [Sign up](https://app.fritz.ai/register) for a Fritz AI account to see how you can include machine learning features in your app.
 
 **Vision API: Prebuilt models that you can simply drop into your apps:**
 
